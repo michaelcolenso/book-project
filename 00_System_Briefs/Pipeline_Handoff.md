@@ -1,6 +1,6 @@
 # Pipeline Handoff Document
 
-*Living status doc for The Alchemy of Belief — Last updated: March 25, 2026*
+*Living status doc for The Alchemy of Belief — Last updated: March 25, 2026 (evening update)*
 
 ---
 
@@ -17,7 +17,7 @@ This document is the single source of truth for any agent — human or AI — pi
 | `/00_System_Briefs/` | Master_Agent_Prompt.md, Pipeline_Handoff.md (this file) | Active |
 | `/01_Research_Data/` | Market_Landscape.md, Psychological_Frameworks.md | Complete (v1) |
 | `/02_Chapter_Outlines/` | Ch01_Outline.md through Ch06_Outline.md | Ch1–6 complete; Ch7–13 pending |
-| `/03_Raw_Drafts/` | Chapter_01_The_Lure_of_the_Unseen_Raw_Draft.md, Chapter_02_The_Vocabulary_of_the_Alternative_Raw_Draft.md, Chapter_03_Understanding_the_Believer_Raw_Draft.md | Ch1–3 raw drafts available (working) |
+| `/03_Raw_Drafts/` | Chapter_01_The_Lure_of_the_Unseen_Raw_Draft.md, Chapter_02_The_Vocabulary_of_the_Alternative_Raw_Draft.md, Chapter_03_Understanding_the_Believer_Raw_Draft.md, Chapter_04_Opportunity_Mapping_Choosing_Niches_That_Scale_Without_Legal_Landmines_Raw_Draft.md | Ch1–4 raw drafts available (working) |
 | `/04_Final_Manuscript/` | Empty | No approved content |
 
 ---
@@ -134,8 +134,9 @@ Current priority queue (in order):
 5. ~~Chapters 4–6 outlines~~ ✓
 6. ~~Chapter 2 raw draft~~ ✓
 7. ~~Chapter 3 raw draft~~ ✓
-8. **Chapter 4 raw draft** ← next
-9. Continue through pipeline...
+8. ~~Chapter 4 raw draft~~ ✓
+9. **Chapter 5 raw draft** ← next
+10. Continue through pipeline...
 
 ---
 
