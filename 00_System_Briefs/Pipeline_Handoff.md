@@ -16,8 +16,8 @@ This document is the single source of truth for any agent — human or AI — pi
 |--------|----------|--------|
 | `/00_System_Briefs/` | Master_Agent_Prompt.md, Pipeline_Handoff.md (this file) | Active |
 | `/01_Research_Data/` | Market_Landscape.md, Psychological_Frameworks.md | Complete (v1) |
-| `/02_Chapter_Outlines/` | Ch01_Outline.md, Ch02_Outline.md, Ch03_Outline.md | Ch1–3 complete; Ch4–13 pending |
-| `/03_Raw_Drafts/` | Chapter_01_The_Lure_of_the_Unseen_Raw_Draft.md | Ch1 raw draft in progress |
+| `/02_Chapter_Outlines/` | Ch01_Outline.md through Ch06_Outline.md | Ch1–6 complete; Ch7–13 pending |
+| `/03_Raw_Drafts/` | Chapter_01_The_Lure_of_the_Unseen_Raw_Draft.md, Chapter_02_The_Vocabulary_of_the_Alternative_Raw_Draft.md | Ch1–2 raw drafts available (working) |
 | `/04_Final_Manuscript/` | Empty | No approved content |
 
 ---
@@ -45,6 +45,13 @@ These are original frameworks or terms created for this book. They must be used 
 | **The Legitimacy Gradient** | Ch02, Beat 2 | A 5-zone taxonomy mapping alternative wellness modalities from Adjacent-Mainstream (Zone 1) to Deep Esoteric (Zone 5) along three axes: perceived credibility, regulatory proximity, and commercial maturity. | Ch2 (primary), Ch4, Ch5, Ch7, Ch8–10 |
 | **Positioning Vocabulary** | Ch02, Beat 4 | The principle that the specific language used to describe a service determines which zone of the Legitimacy Gradient it occupies in the consumer's mind — and therefore what it can charge. Same service, different words, different margin. | Ch2 (primary), Ch5 |
 | **Placebo Architecture** | Psychological_Frameworks.md (§2) | The deliberate design of service environments (space, language, ritual, practitioner presence, integration) to maximize subjective experience of transformation. Framed as experience design, not exploitation. | Ch6 (primary), Ch8–10 |
+| **Belief Conversion Ladder** | Ch03, Beat 3 | A six-stage lifecycle model (Exposure → Permission → First Signal → Narrative Adoption → Identity Commitment → Advocacy) describing how prospects become loyal advocates. | Ch3 (primary), Ch4, Ch7 |
+| **Segment-Weighted TAM** | Ch04, Beat 3 | A niche-sizing method that adjusts category demand by likely segment mix, churn profile, and recurrence potential to estimate commercial quality, not just market volume. | Ch4 (primary), Ch7 |
+| **Niche Attractiveness Scorecard** | Ch04, Beat 4 | A weighted 7-factor scoring system for selecting niches based on segment fit, recurrence, claims risk, founder fit, and scalability constraints. | Ch4 (primary), Ch7 |
+| **Narrative Stack** | Ch05, Beat 3 | A five-layer messaging architecture (Worldview Tension, Identity Invitation, Mechanism Story, Proof Signals, Boundary Statement) used to build conversion-safe positioning. | Ch5 (primary), Ch8, Ch10 |
+| **Proof Ladder** | Ch05, Beat 5 | A trust progression model moving from personal story to client stories to community pattern and process clarity without clinical overclaiming. | Ch5 (primary), Ch8 |
+| **Session Arc Template** | Ch06, Beat 3 | A standardized before/during/after delivery sequence that structures expectations, session flow, and integration to improve coherence and retention. | Ch6 (primary), Ch7, Ch9 |
+| **Autonomy Safeguards** | Ch06, Beat 6 | A boundary framework (scope reminders, referrals, consent refresh, client-led pacing) designed to prevent dependency and protect ethical integrity. | Ch6 (primary), Ch11 |
 
 *Add new concepts to this table as they are introduced in outlines or drafts.*
 
@@ -124,10 +131,11 @@ Current priority queue (in order):
 2. ~~Chapter 1 outline~~ ✓
 3. ~~Chapter 2 outline~~ ✓
 4. ~~Chapter 3 outline~~ ✓
-5. **Chapters 4–6 outlines** ← next (parallelizable)
-6. Chapter 2 raw draft
-7. Chapter 3 raw draft
-8. Continue through pipeline...
+5. ~~Chapters 4–6 outlines~~ ✓
+6. ~~Chapter 2 raw draft~~ ✓
+7. **Chapter 3 raw draft** ← next
+8. Chapter 4 raw draft
+9. Continue through pipeline...
 
 ---
 
