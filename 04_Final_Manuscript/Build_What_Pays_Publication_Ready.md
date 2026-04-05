@@ -72,6 +72,13 @@ Opportunity arbitrage is the discipline of finding value in that gap—finding m
 
 Not with hype. Not with generic "AI startup ideas." Not with another brainstorm dump. With a system.
 
+This book will help you do three things:
+1. find higher-signal opportunities
+2. kill weak ideas faster
+3. validate before you overbuild
+
+The first half gives you the framework. The second half shows you what strong wedges look like in practice. The appendices give you scorecards and worksheets you can use immediately.
+
 A strong solo-builder opportunity usually has some combination of these traits:
 - a clear buyer
 - a painful, repeated problem
@@ -83,6 +90,12 @@ A strong solo-builder opportunity usually has some combination of these traits:
 The goal is not to find the most glamorous idea. The goal is to find the strongest wedge—the narrowest, most specific version of a product that can prove demand. Not the whole vision. The entry point.
 
 If this book works, it should make you more ruthless—about what counts as evidence, what gets cut, and what deserves your next 30 days.
+
+If you use this book well, it will probably save you from building a few things you currently like.
+
+Good.
+
+That is cheaper than building them.
 
 ---
 
@@ -411,6 +424,8 @@ Compare these:
 - **strong wedge:** permit-triggered lead alerts for roofers and solar installers by county
 
 The narrower version is not smaller in a bad way. It is stronger in a useful way.
+
+You now have the tools: engines to find signals, filters to score them, kill signals to cut them, and a wedge test to shape them. Here is how to put them to work in 30 days.
 
 ---
 
