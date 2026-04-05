@@ -203,7 +203,7 @@ Can you name the buyer in one sentence?
 
 Not "small businesses." Not "creators." Not "anyone who needs help with X."
 
-A useful buyer definition sounds like this: first-time hot sauce entrepreneur trying to sell legally; part-time reseller with tax-season spreadsheet chaos; leather crafter underpricing custom commissions; roofer who wants permit-triggered sales alerts in one county.
+A useful buyer definition sounds like this: independent bookkeeper managing sales tax filings across three states; part-time reseller with tax-season spreadsheet chaos; leather crafter underpricing custom commissions; roofer who wants permit-triggered sales alerts in one county.
 
 If the buyer is fuzzy, the product will be fuzzy.
 
@@ -416,8 +416,8 @@ The goal is not to pick the most impressive shape. It is to pick the one that ge
 A good wedge usually has one obvious buyer, one painful job, one trigger moment, one clear promise, and one believable first version.
 
 Compare these:
-- **weak wedge:** software for artisan food brands
-- **strong wedge:** compliance navigator for first-time hot sauce sellers in the top 15 states
+- **weak wedge:** software for artisan makers who sell online
+- **strong wedge:** project cost and pricing calculator for leather crafters selling custom commissions
 - **weak wedge:** AI for resellers
 - **strong wedge:** inventory and tax tracker for part-time eBay and Poshmark sellers
 - **weak wedge:** better market intelligence
@@ -659,6 +659,8 @@ These are not recommendations. They are teaching examples.
 
 **Why it works:** Clear spend, ugly existing experience, high value per win. The framework sees a market already paying, a bad existing interface, and a buyer who can justify spend when the signal quality is higher.
 
+**The Story:** A former capture manager noticed her team was manually checking SAM.gov every morning, filtering out irrelevant solicitations in a spreadsheet, and still missing opportunities in adjacent NAICS codes. She built a filtered alert tool for her own team first. Within a month, three consultants at competing firms asked whether they could pay for access.
+
 ---
 
 ### 5. CraftLedger
@@ -681,6 +683,8 @@ These are not recommendations. They are teaching examples.
 | Distribution Realism | 3 | Communities exist but need cultivation |
 
 **Why it works:** Small pricing improvements create immediate ROI. The framework sees a narrow buyer, recurring pain, and a wedge that can be sold as a tool, worksheet, or service before it becomes software.
+
+**The Story:** A leather worker quoted custom bags by gut feel and consistently undercharged for labor. After tracking one commission in a spreadsheet, he discovered he'd billed $12 an hour after materials. He built a costing tool, posted it in a leather crafting forum, and sold 40 copies in the first week.
 
 ---
 
@@ -705,6 +709,8 @@ These are not recommendations. They are teaching examples.
 
 **Why it works:** Real financial and legal risk drives purchase intent. The framework sees clear buyer, severe pain, subscription monetization path, and high defensibility as the tool accumulates proprietary license-to-regulation mappings.
 
+**The Story:** A machine learning engineer spent two days manually auditing which open-source datasets her company's models were trained on and whether the licenses allowed commercial use. She found three violations. She documented the audit process in a spreadsheet and showed it to her VP, who immediately asked if it could be automated.
+
 ---
 
 ### 7. EV Permit Alert Engine
@@ -728,6 +734,8 @@ These are not recommendations. They are teaching examples.
 
 **Why it works:** Timing is everything for installers who need to quote early, and permit data is public but buried. The framework sees public-data arbitrage, clear timing value, subscription monetization. The manual version starts as a weekly email to a handful of contractors while automation is built.
 
+**The Story:** An electrical contractor noticed competitors consistently showing up at EV charger jobs he'd never heard about until they were already awarded. He pulled county permit data manually for one month and found that half the missed jobs had been permitted 30 days earlier. He started emailing that data to two other contractors every week. Both asked what he was charging for it.
+
 ---
 
 ### 8. Ingredient Traceability Dashboard
@@ -750,6 +758,41 @@ These are not recommendations. They are teaching examples.
 | Distribution Realism | 3 | Fragmented market, hard to reach |
 
 **Why it works:** The cost of a failed audit far exceeds the price of a simple traceability tool. The framework sees clear buyer, painful compliance mandate, subscription or pay-per-batch monetization, and strong defensibility as the platform accumulates clean supply-chain data.
+
+**The Story:** A co-packer serving small food brands kept a paper batch log because the FDA required it. After a recall scare at a nearby competitor cost that company six months of business, three of his clients asked whether he could show them a traceability audit on demand. He moved the batch log to a spreadsheet and started charging a monthly fee for access.
+
+---
+
+### Kill Example: Property Assessment Appeal Scout
+
+**Buyer:** Homeowners who recently received an increased property tax assessment
+
+**Pain:** Assessment may be inflated; comparable property data is scattered across public records; appeal process is confusing and time-limited
+
+**Wedge:** Public-data comparison tool that surfaces relevant comparables and generates a one-page appeal summary
+
+**Six Filters Score:** 17/30
+
+| Filter | Score | Justification |
+|--------|-------|---------------|
+| Buyer Clarity | 4 | Clear trigger moment: assessment notice arrives |
+| Pain Severity | 4 | Potentially thousands of dollars at stake |
+| Monetization Clarity | 2 | One-time, low-frequency purchase; consumer price ceiling is low |
+| Build Feasibility | 3 | County property records vary widely in format and accessibility |
+| Defensibility | 2 | Public data is reproducible; no accumulating advantage |
+| Distribution Realism | 2 | Buyers exist for a narrow window once per year; no clear channel |
+
+**Kill signals checked:**
+
+The buyer is real. The pain is real. The public data exists. None of that is the problem.
+
+Distribution is the problem. There is no reliable channel to reach homeowners inside the 30-day window after an assessment arrives. Content SEO takes months. Social ads are broad and expensive. Direct mail is offline and slow. The trigger fires once per year for any given household, on a random schedule, with no community or forum where those buyers congregate at the moment of urgency.
+
+Monetization collapses under scrutiny. A consumer with a one-time problem and a low price ceiling—would you pay $49 to potentially save $400? Some would. Most won't, especially without trusted referral—produces soft economics even if the conversion rate is reasonable. There is no recurring revenue mechanism, no reason for the buyer to return, and no referral loop because the problem arrives on a random schedule.
+
+**Verdict: Kill.**
+
+Score 17 puts this in the backlog zone, but two kill signals checked means the backlog is a trap. Parking a weak-distribution, low-frequency, consumer-priced idea in a backlog is how it survives long enough to become a six-month build. The idea had surface appeal. The market does not have a door you can knock on.
 
 ---
 
@@ -914,13 +957,19 @@ That is enough to build something real.
 
 ## Appendix A: Opportunity Scorecard
 
-Rate each idea from 1 to 5 on:
-- buyer clarity
-- pain severity
-- monetization clarity
-- build feasibility
-- defensibility
-- distribution realism
+Rate each idea 1–5 on all six filters. Sum the scores. Use the interpretation table to assign a verdict.
+
+**Opportunity:** _______________________________________________
+
+| Filter | Score (1–5) | Justification |
+|--------|-------------|---------------|
+| Buyer Clarity | | |
+| Pain Severity | | |
+| Monetization Clarity | | |
+| Build Feasibility | | |
+| Defensibility | | |
+| Distribution Realism | | |
+| **Total** | | |
 
 ### Interpretation
 
@@ -930,6 +979,18 @@ Rate each idea from 1 to 5 on:
 | 21–25 | Good candidate—test the wedge before committing deeply |
 | 16–20 | Backlog or tighten the wedge |
 | 15 and below | Kill unless new evidence changes the picture |
+
+### Worked Example: FlipTrack
+
+| Filter | Score | Justification |
+|--------|-------|---------------|
+| Buyer Clarity | 5 | Part-time resellers on eBay/Poshmark — named, reachable |
+| Pain Severity | 5 | Tax penalties and audit risk create urgent, recurring motion |
+| Monetization Clarity | 5 | Monthly subscription with obvious ROI on first use |
+| Build Feasibility | 4 | API integrations add complexity, manageable solo |
+| Defensibility | 4 | User data and workflow integration compound over time |
+| Distribution Realism | 3 | Reseller communities active but competitive |
+| **Total** | **26** | **Strong build candidate — test the wedge** |
 
 ---
 
