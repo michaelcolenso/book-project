@@ -30,12 +30,42 @@ The core thesis: most builders fail from **selection failure**, not execution fa
 ## Repository Structure
 
 ```
-/00_System_Briefs/    — Editorial reports, memos, revision notes
-/01_Research_Data/    — Market data, competitive analysis
-/02_Chapter_Outlines/ — Beat-sheets before prose
-/03_Raw_Drafts/       — Versioned drafts (original, revised, annotated)
-/04_Final_Manuscript/ — Publication-ready content + canonical PDF
+/00_System_Briefs/     — Editorial reports, memos, revision notes, manuscript ruleset
+/01_Research_Data/     — Opportunity databases, CSVs, opportunity-hunts sessions
+/02_Chapter_Outlines/  — Beat-sheets before prose (archived; outlines folded into drafts)
+/03_Raw_Drafts/        — Versioned drafts in chronological order (see timeline below)
+  /01_early-concept/   — Rough opportunity-OS notes (pre-book)
+  /02_opportunity-arbitrage/ — "The Opportunity Arbitrage Playbook" working drafts + HTML
+  /03_build-what-pays-working/ — Transition drafts once title solidified
+  BWP_Original_Draft.md       — Pre-editorial full manuscript
+  BWP_Revised_Draft.md        — Post-editorial revision
+  build-what-pays-v2.pdf      — PDF snapshot of v2
+/04_Final_Manuscript/  — Publication-ready content + canonical PDF
+/05_Typst_Layout/      — Layout experiments (chronological: claude-base → eightbyten → tufte → marginalia → ilm)
+  /01_claude-base/     — First typst import (original source material)
+  /02_eightbyten/      — 8×10 structured format attempt
+  /03_tufte/           — Tufte-style layout experiment
+  /04_marginalia/      — Marginalia layout (v1–v5 refinement iterations)
+  /05_ilm/             — ILM format — final production layout (canonical source)
+  /docs/               — Typst architecture notes, cheat sheets, audit docs
+/06_Marketing/         — Gumroad packages, sales pages, ghost offer templates
+/07_Tools_Templates/   — Standalone reader tools: scorecard, worksheet, sprint template
+/build-what-pays-production/ — Diagrams, print-ready supplements (scorecard PDF, sprint PDF, worksheet PDF)
+/opportunity-radar/    — Python tool for live opportunity discovery and scoring
 ```
+
+## Development Timeline
+
+| Phase | When | Key Files |
+|-------|------|-----------|
+| 1. Concept notes | Mar 2026 | `03_Raw_Drafts/01_early-concept/opportunity-os-v1.md` |
+| 2. "Opportunity Arbitrage Playbook" | Mar 2026 | `03_Raw_Drafts/02_opportunity-arbitrage/` |
+| 3. Typst layout experiments | Mar–Apr 2026 | `05_Typst_Layout/01_claude-base/` → `05_ilm/` |
+| 4. "Build What Pays" title solidifies | Apr 2026 | `03_Raw_Drafts/03_build-what-pays-working/` |
+| 5. Pre-editorial manuscript | Apr 2026 | `03_Raw_Drafts/BWP_Original_Draft.md` |
+| 6. Editorial review | Apr 2026 | `00_System_Briefs/BWP_Editorial_Report.md`, `BWP_Editorial_Memo.md` |
+| 7. Revision + assessment | Apr 2026 | `03_Raw_Drafts/BWP_Revised_Draft.md`, `00_System_Briefs/BWP_Revision_Assessment.md` |
+| 8. Publication-ready | Apr 2026 | `04_Final_Manuscript/Build_What_Pays_Publication_Ready.md` + `build-what-pays-ilm.pdf` |
 
 ## Current Manuscript Files
 
