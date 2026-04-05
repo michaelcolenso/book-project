@@ -1,66 +1,65 @@
-# The Alchemy of Belief: Profiting from the Unproven
+# Build What Pays
+## The Six-Filters System for Finding Business Ideas That Actually Work
 
-**A strategic playbook for building profitable businesses in the alternative wellness and spirituality markets.**
+**A practical field manual for solo builders who want to find, evaluate, and validate business ideas before wasting time on the wrong ones.**
 
 ---
 
 ## What This Is
 
-This is a non-fiction business book written for pragmatic entrepreneurs who want to understand and capitalize on the fastest-growing segment of the experience economy: subjective wellness, personal transformation, and belief-driven services.
+A non-fiction business book for solo builders, indie hackers, and bootstrappers. Not theory. A compressed operating system for idea evaluation built from 200+ scored opportunities.
 
-This is not a spiritual guide. It is a commercial operating manual.
+The core thesis: most builders fail from **selection failure**, not execution failure. They build the wrong thing. This book fixes that.
 
-## The Premise
+## The Framework
 
-Millions of consumers spend billions annually on services with no clinical validation — energy healing, astrology-based coaching, crystal therapy, past-life regression. Most business books ignore this market or dismiss it. We study it, decode its psychology, and teach you how to build within it — legally, ethically, and profitably.
+**The Six Filters** — Rate every opportunity 1–5:
+1. Buyer Clarity
+2. Pain Severity
+3. Monetization Clarity
+4. Build Feasibility
+5. Defensibility
+6. Distribution Realism
 
-## Who This Is For
+**Scoring:** 26–30 = Build | 21–25 = Test the wedge | 16–20 = Backlog | ≤15 = Kill
 
-**Avatar B: The Pragmatic Entrepreneur.** You are analytical, commercially focused, and looking for an underserved niche with high margins and deep customer loyalty. You don't need to believe in the product — you need to understand why your customers do.
+**The Three Discovery Engines:** Money Trails · Public-Data Arbitrage · Workflow Compression
 
-## Our Workflow: Building in Public with AI + Git
+**The 30-Day Validation Sprint:** Verify Pain → Test Offer → Deliver Manually → Decide Brutally
 
-This book is being drafted, edited, and assembled using an AI-assisted pipeline managed through Git version control:
+## Repository Structure
 
-- **`/00_System_Briefs/`** — Master prompts and structural outlines governing tone, audience, and legal guardrails
-- **`/01_Research_Data/`** — Market sizing, psychological frameworks, and competitive landscape analysis
-- **`/02_Chapter_Outlines/`** — Granular beat-sheets for each chapter before prose is generated
-- **`/03_Raw_Drafts/`** — Initial AI-generated prose, versioned and iterable
-- **`/04_Final_Manuscript/`** — Polished, human-approved content (the main branch of truth)
+```
+/00_System_Briefs/    — Editorial reports, memos, revision notes
+/01_Research_Data/    — Market data, competitive analysis
+/02_Chapter_Outlines/ — Beat-sheets before prose
+/03_Raw_Drafts/       — Versioned drafts (original, revised, annotated)
+/04_Final_Manuscript/ — Publication-ready content + canonical PDF
+```
 
-Every chapter moves through this pipeline. Drafts are committed, reviewed, revised, and promoted — the same way software ships. We believe this transparency makes the process reproducible and the output better.
+## Current Manuscript Files
 
-## Table of Contents
+| File | Location | Notes |
+|------|----------|-------|
+| `Build_What_Pays_Publication_Ready.md` | `04_Final_Manuscript/` | Latest polished manuscript |
+| `build-what-pays-ilm.pdf` | `04_Final_Manuscript/` | **Canonical latest revision (PDF)** |
+| `BWP_Revised_Draft.md` | `03_Raw_Drafts/` | Post-editorial revision |
+| `BWP_Original_Draft.md` | `03_Raw_Drafts/` | Pre-editorial original |
+| `BWP_Editorial_Report.md` | `00_System_Briefs/` | Full publishing house review |
+| `BWP_Editorial_Memo.md` | `00_System_Briefs/` | Line-by-line revision notes |
+| `BWP_Revision_Assessment.md` | `00_System_Briefs/` | What the revision got right/wrong |
 
-### Part I: The Foundation of Belief and Market Psychology
-1. The Lure of the Unseen: Why We Believe
-2. The Vocabulary of the Alternative: Mapping the Unproven Spectrum
-3. Understanding the Believer: Decoding Your Target Audience
+## Status
 
-### Part II: Building the Unconventional Business Model
-4. Identifying the Gaps: Niche Opportunities and Legal Guardrails
-5. The Narrative Power: Framing and Positioning Your Service
-6. The Experience Economy: Elevating Services Beyond Transactions
-7. Turning Belief into Revenue: Monetization Strategies
+**Current phase:** Post-editorial revision — manuscript is publication-ready with targeted improvements pending.
 
-### Part III: Case Studies in Action — Monetizing the Intangible
-8. Celestial Resonance Coaching: The High-Ticket Premium Model
-9. Bio-Energetic Harmonization Sessions: The Recurring Revenue Ecosystem
-10. Past Life Regression Therapy: The Narrative Marketing Engine
-
-### Part IV: The Future of the Unproven Market
-11. The Longevity Imperative: Managing Responsibility and Ambiguity
-12. Future Trends: Innovation and Adaptability
-13. Conclusion: The Ongoing Dialogue of Belief and Business
-
-## The Ethical Line
-
-This project enforces a strict boundary: **subjective wellness, never medical claims.** All content focuses on personal transformation, experiential value, and emotional outcomes. We do not advocate making quantifiable scientific or health claims. Client safety comes first — always.
-
-## Follow Along
-
-Star this repo. Watch the commits. The book is being built in the open.
+**Priority actions remaining (from editorial review):**
+- [ ] Restore "Good. That is cheaper than building them." closing lines
+- [ ] Restore three-deliverable structural promise in Introduction
+- [ ] Add two-sentence bridge before 30-Day Sprint
+- [ ] Expand example wedges with filter-by-filter scoring
+- [ ] Add scoring rubrics (1–5 definitions) for each filter
 
 ---
 
-*Status: In Progress — Foundation & Architecture Phase*
+*Built in public with AI + Git. The manuscript moves through the pipeline the same way software ships.*
