@@ -16,7 +16,7 @@ The anchor for tone and rules. Read by every agent, every time. It contains the 
 The running log of locked-in narrative or structural choices. This replaces reading the entire manuscript. If Chapter 1 defines a term, the Editor logs it here so Chapter 4 doesn't redefine it.
 
 ### 4. Specialized Agents (`prompts/`)
-- **Orchestrator:** The manager. Reads the schema, triggers the sub-agents in sequence, updates the Ledger, and writes the files. Halts if an asset is missing.
+- **Managing Editor:** The manager. Reads the schema, triggers the sub-agents in sequence, updates the Ledger, and writes the files. Halts if an asset is missing.
 - **Scout:** Pulls data, quotes, and structural hooks based on the chapter's `required_assets`. Outputs high-density facts, no prose.
 - **Drafter:** Writes raw text to hit the word count. Strictly follows the `immutable_brief`, the `decision_ledger`, and the preceding chapter summary to maintain flow.
 - **Continuity Editor:** Reads the draft against the Brief and the Ledger. Polishes prose, enforces kill signals, writes a 200-word summary for the next Drafter, and logs any new rules to the Ledger.
