@@ -1,0 +1,129 @@
+{
+  "generated_at": "2026-03-28T18:34:31.032322+00:00",
+  "source": "data.gov",
+  "query": "building permits",
+  "count": 8,
+  "items": [
+    {
+      "title": "Residential Construction Permits by County",
+      "url": "https://opendata.arcgis.com/api/v3/datasets/da836467b4904711b14d74acbc4568be_24/downloads/data?format=fgdb&spatialRefId=4326&where=1%3D1",
+      "notes": "This dataset contains data on permits for residential construction collected in the Census Bureau's Building Permits Survey. Data is aggregated to the County level. Data is only for final permits, not preliminary permits. Final permit data is published in May of the following yea\u2026",
+      "organization": "Department of Housing and Urban Development",
+      "tags": [
+        "census",
+        "community-indicators",
+        "county",
+        "economic-development",
+        "hud",
+        "hud-official-content",
+        "permits"
+      ],
+      "metadata_created": "2024-03-01T02:04:53.232405",
+      "metadata_modified": "2026-03-11T13:04:47.513748"
+    },
+    {
+      "title": "Allegheny County Plumbers",
+      "url": "http://webapps.achd.net/Plumbing/",
+      "notes": "All master plumbers must be registered with the Allegheny County Health Department.     Only Registered Master Plumbers who possess a current plumbing license or owner/occupant of an existing single family dwelling may apply for a plumbing permit. Plumbing permits are required to\u2026",
+      "organization": "Allegheny County / City of Pittsburgh / Western PA Regional Data Center",
+      "tags": [
+        "_etl",
+        "health",
+        "plumbing"
+      ],
+      "metadata_created": "2023-01-24T18:05:12.830922",
+      "metadata_modified": "2023-05-14T23:31:29.685156"
+    },
+    {
+      "title": "Issued Construction Permits",
+      "url": "https://data.austintexas.gov/api/views/3syk-w9eu/rows.csv?accessType=DOWNLOAD",
+      "notes": "City of Austin Open Data Terms of Use https://data.austintexas.gov/stories/s/ranj-cccq  Building, Electrical, Mechanical, and Plumbing Permits and Driveway/Sidewalk Permits issued by the City of Austin.  Includes relevant details such as issue date, location, council district, ex\u2026",
+      "organization": "City of Austin",
+      "tags": [
+        "blds",
+        "building",
+        "development",
+        "driveway",
+        "electrical",
+        "land-development-code",
+        "mechanical",
+        "one-texas-center",
+        "permit-center",
+        "permits",
+        "plumbing",
+        "services",
+        "sidewalk"
+      ],
+      "metadata_created": "2020-11-12T13:21:20.264824",
+      "metadata_modified": "2026-03-25T14:19:20.278745"
+    },
+    {
+      "title": "Allegheny County Property Assessments",
+      "url": "https://data.wprdc.org/dataset/2b3df818-601e-4f06-b150-643557229491/resource/f2b8d575-e256-4718-94ad-1e12239ddb92/download/assessments.csv",
+      "notes": "Real Property parcel characteristics for Allegheny County, PA. Includes information pertaining to land, values, sales, abatements, and building characteristics (if residential) by parcel.   Disclaimer:  Parcel information is provided from the Office of Property Assessments in All\u2026",
+      "organization": "Allegheny County / City of Pittsburgh / Western PA Regional Data Center",
+      "tags": [
+        "_etl",
+        "assessment",
+        "parcel",
+        "property",
+        "property-value",
+        "real-estate",
+        "real-property",
+        "taxes"
+      ],
+      "metadata_created": "2023-01-24T18:03:15.563997",
+      "metadata_modified": "2023-05-14T23:31:33.771865"
+    },
+    {
+      "title": "EBR Building Permits",
+      "url": "https://data.brla.gov/api/views/7fq7-8j7r/rows.csv?accessType=DOWNLOAD",
+      "notes": "All construction and occupancy permits issued in East Baton Rouge Parish",
+      "organization": "City of Baton Rouge",
+      "tags": [
+        "building-permits",
+        "construction",
+        "permits"
+      ],
+      "metadata_created": "2020-11-12T14:59:53.101588",
+      "metadata_modified": "2026-03-22T03:06:27.067654"
+    },
+    {
+      "title": "Building and Safety - Building Permits Issued from 2020 to Present (N)",
+      "url": "https://data.lacity.org/api/views/pi9x-tg5x/rows.csv?accessType=DOWNLOAD",
+      "notes": "The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles. Permits are categorized into building permits, electrical permits, and mechanical permits (which include plumbing, HVAC system\u2026",
+      "organization": "City of Los Angeles",
+      "tags": [
+        "building-permit"
+      ],
+      "metadata_created": "2023-04-22T05:23:29.604326",
+      "metadata_modified": "2026-03-22T03:09:17.247678"
+    },
+    {
+      "title": "San Francisco Property Information Map",
+      "url": "https://sfplanninggis.org/pim",
+      "notes": "map of all SF properties with associated, zoning, permits, complaints and appeals history  See the Data Downloads section of the websites help page for links to individual DataSF datasets used to create the Property Information Map https://sfplanninggis.org/pim/help.html",
+      "organization": "City of San Francisco",
+      "tags": [
+        "gis",
+        "pim",
+        "planning"
+      ],
+      "metadata_created": "2020-11-10T16:56:39.065380",
+      "metadata_modified": "2025-03-29T17:01:11.727102"
+    },
+    {
+      "title": "Commercial Permits",
+      "url": "https://data.montgomerycountymd.gov/api/views/i26v-w6bd/rows.csv?accessType=DOWNLOAD",
+      "notes": "Data for all Commercial Building Permits issued since 2000, including status and work performed.    Update Frequency:  Daily",
+      "organization": "Montgomery County of Maryland",
+      "tags": [
+        "commercial",
+        "permits",
+        "permitting"
+      ],
+      "metadata_created": "2020-11-10T16:58:16.694057",
+      "metadata_modified": "2026-03-22T03:28:45.426721"
+    }
+  ]
+}

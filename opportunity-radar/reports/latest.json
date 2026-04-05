@@ -1,0 +1,240 @@
+{
+  "generated_at": "2026-03-28T18:32:25.423259+00:00",
+  "recommendation": "Permit activity monitor",
+  "count": 5,
+  "ranked": [
+    {
+      "name": "Permit activity monitor",
+      "niche": "Monitor municipal permit filings and surface high-intent construction / renovation signals by geography and job type.",
+      "intent_signals": [
+        "Contractors, subs, and suppliers already pay for lead lists and permit feeds.",
+        "Permit activity is a recurring operational signal, not a novelty search."
+      ],
+      "pain_point": "Builders, subs, suppliers, and local service operators do not have a simple way to track permit activity without messy portals or expensive data vendors.",
+      "current_solutions": [
+        "permit aggregators",
+        "manual portal checks",
+        "sales reps pulling leads by hand"
+      ],
+      "proposed_solution": "A focused permit intelligence tool with alerts, filters, geography slices, and simple lead views.",
+      "access": "Public permit portals, open-data catalogs, ESRI endpoints, municipal records.",
+      "mvp_scope": "One geography + one permit type + alerts + simple dashboard/export.",
+      "why_this_could_win": "Strong operational pain, repeat usage, local wedges, and clear B2B buyers.",
+      "risks": [
+        "data fragmentation by municipality",
+        "messy normalization",
+        "uneven portal quality"
+      ],
+      "scores": {
+        "pain_severity": 5,
+        "frequency": 5,
+        "intent_to_pay": 5,
+        "buyer_clarity": 5,
+        "data_accessibility": 4,
+        "distribution_accessibility": 4,
+        "mvp_simplicity": 3,
+        "defensibility": 4,
+        "fit_with_mike": 5
+      },
+      "weighted_breakdown": {
+        "pain_severity": 7.0,
+        "frequency": 6.5,
+        "intent_to_pay": 7.5,
+        "buyer_clarity": 6.0,
+        "data_accessibility": 4.4,
+        "distribution_accessibility": 4.4,
+        "mvp_simplicity": 3.0,
+        "defensibility": 4.0,
+        "fit_with_mike": 7.0
+      },
+      "weighted_total": 49.8,
+      "percentage": 90.5
+    },
+    {
+      "name": "Local business website grader",
+      "niche": "Find local businesses with weak websites and generate actionable audit briefs tied to outreach or productized fixes.",
+      "intent_signals": [
+        "Agencies and consultants already sell audits and local website fixes.",
+        "Business owners care when the output is specific and tied to revenue leakage."
+      ],
+      "pain_point": "Local businesses often have weak websites, missing trust signals, poor CTA structure, and no tracking, but nobody surfaces that clearly at scale.",
+      "current_solutions": [
+        "manual audits",
+        "generic marketing graders",
+        "agency prospecting spreadsheets"
+      ],
+      "proposed_solution": "A grader that scores local business websites and outputs audit-ready briefs.",
+      "access": "Google Maps listings, business websites, public web pages.",
+      "mvp_scope": "One niche + one city + basic site scoring + PDF/brief export.",
+      "why_this_could_win": "Fast path to service revenue or outbound tooling.",
+      "risks": [
+        "crowded surface area",
+        "needs strong niche wedge",
+        "quality matters more than automation volume"
+      ],
+      "scores": {
+        "pain_severity": 4,
+        "frequency": 5,
+        "intent_to_pay": 4,
+        "buyer_clarity": 4,
+        "data_accessibility": 4,
+        "distribution_accessibility": 5,
+        "mvp_simplicity": 4,
+        "defensibility": 3,
+        "fit_with_mike": 4
+      },
+      "weighted_breakdown": {
+        "pain_severity": 5.6,
+        "frequency": 6.5,
+        "intent_to_pay": 6.0,
+        "buyer_clarity": 4.8,
+        "data_accessibility": 4.4,
+        "distribution_accessibility": 5.5,
+        "mvp_simplicity": 4.0,
+        "defensibility": 3.0,
+        "fit_with_mike": 5.6
+      },
+      "weighted_total": 45.4,
+      "percentage": 82.5
+    },
+    {
+      "name": "Recall alert intelligence",
+      "niche": "Track vehicle recall changes and alert owners, shoppers, and small operators when relevant recalls appear.",
+      "intent_signals": [
+        "People actively search for recall status by vehicle.",
+        "Monitoring creates recurring value beyond one-time lookup."
+      ],
+      "pain_point": "Recall information exists, but it is fragmented, clunky, and not designed for ongoing monitoring.",
+      "current_solutions": [
+        "NHTSA lookup",
+        "manufacturer recall pages",
+        "VIN tools"
+      ],
+      "proposed_solution": "Free recall lookup plus paid multi-vehicle monitoring and alerting.",
+      "access": "NHTSA data, manufacturer guidance, structured vehicle metadata.",
+      "mvp_scope": "Lookup pages + email capture + single-vehicle alerts.",
+      "why_this_could_win": "Clear wedge, clear search intent, and already partially built through RecallRadar.",
+      "risks": [
+        "trust requirements",
+        "consumer monetization can be soft",
+        "need enough coverage to feel credible"
+      ],
+      "scores": {
+        "pain_severity": 4,
+        "frequency": 4,
+        "intent_to_pay": 3,
+        "buyer_clarity": 4,
+        "data_accessibility": 5,
+        "distribution_accessibility": 4,
+        "mvp_simplicity": 4,
+        "defensibility": 3,
+        "fit_with_mike": 5
+      },
+      "weighted_breakdown": {
+        "pain_severity": 5.6,
+        "frequency": 5.2,
+        "intent_to_pay": 4.5,
+        "buyer_clarity": 4.8,
+        "data_accessibility": 5.5,
+        "distribution_accessibility": 4.4,
+        "mvp_simplicity": 4.0,
+        "defensibility": 3.0,
+        "fit_with_mike": 7.0
+      },
+      "weighted_total": 44.0,
+      "percentage": 80.0
+    },
+    {
+      "name": "Code enforcement / violation monitor",
+      "niche": "Track city code enforcement, violations, and nuisance cases to surface property distress and service opportunities.",
+      "intent_signals": [
+        "Investors, service providers, and local operators care about property distress signals.",
+        "Distress data can be used for lead generation and market intelligence."
+      ],
+      "pain_point": "Property distress signals are scattered across local systems and are hard to watch consistently.",
+      "current_solutions": [
+        "manual government portal checks",
+        "expensive real-estate data platforms"
+      ],
+      "proposed_solution": "Local distress monitor with alerts, watchlists, and territory views.",
+      "access": "Municipal code-enforcement records, open-data endpoints, public case logs.",
+      "mvp_scope": "One city + one violation class + alert feed.",
+      "why_this_could_win": "Good signal quality and strong niche use cases in property and local services.",
+      "risks": [
+        "city-by-city inconsistency",
+        "compliance / optics depending on use case"
+      ],
+      "scores": {
+        "pain_severity": 4,
+        "frequency": 4,
+        "intent_to_pay": 4,
+        "buyer_clarity": 4,
+        "data_accessibility": 3,
+        "distribution_accessibility": 3,
+        "mvp_simplicity": 3,
+        "defensibility": 4,
+        "fit_with_mike": 5
+      },
+      "weighted_breakdown": {
+        "pain_severity": 5.6,
+        "frequency": 5.2,
+        "intent_to_pay": 6.0,
+        "buyer_clarity": 4.8,
+        "data_accessibility": 3.3,
+        "distribution_accessibility": 3.3,
+        "mvp_simplicity": 3.0,
+        "defensibility": 4.0,
+        "fit_with_mike": 7.0
+      },
+      "weighted_total": 42.2,
+      "percentage": 76.7
+    },
+    {
+      "name": "Estate / public notice intelligence",
+      "niche": "Monitor probate, estate, lien, and public notice signals that can feed niche services, research, or acquisition workflows.",
+      "intent_signals": [
+        "Operators already mine public notices manually.",
+        "High-friction data creates room for a cleaner product."
+      ],
+      "pain_point": "Public notices contain valuable signals, but the data is ugly, dispersed, and painful to normalize.",
+      "current_solutions": [
+        "manual notice review",
+        "specialized local data vendors",
+        "internal spreadsheets"
+      ],
+      "proposed_solution": "A notice monitor that structures and alerts on chosen signal types.",
+      "access": "County/court/public notice systems, PDFs, local publication feeds.",
+      "mvp_scope": "One notice type + one geography + alert summaries.",
+      "why_this_could_win": "Messy high-friction data with clear operator value.",
+      "risks": [
+        "source inconsistency",
+        "OCR/document mess",
+        "some niches may be ethically or reputationally touchy"
+      ],
+      "scores": {
+        "pain_severity": 4,
+        "frequency": 3,
+        "intent_to_pay": 4,
+        "buyer_clarity": 3,
+        "data_accessibility": 2,
+        "distribution_accessibility": 3,
+        "mvp_simplicity": 2,
+        "defensibility": 5,
+        "fit_with_mike": 5
+      },
+      "weighted_breakdown": {
+        "pain_severity": 5.6,
+        "frequency": 3.9,
+        "intent_to_pay": 6.0,
+        "buyer_clarity": 3.6,
+        "data_accessibility": 2.2,
+        "distribution_accessibility": 3.3,
+        "mvp_simplicity": 2.0,
+        "defensibility": 5.0,
+        "fit_with_mike": 7.0
+      },
+      "weighted_total": 38.6,
+      "percentage": 70.2
+    }
+  ]
+}

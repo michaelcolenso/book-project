@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Opportunity Scorecard</title>
+<style>
+:root{--bg:#f7f2e8;--ink:#111;--muted:#5f5a52;--line:#d8cfbf;--accent:#7a2e25;--accent2:#9c8760;}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,Arial,sans-serif} .page{max-width:1000px;margin:0 auto;padding:48px 44px 60px} .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:700} h1{font-size:44px;line-height:1;margin:10px 0 8px;font-weight:800} .sub{color:var(--muted);font-size:16px;max-width:760px;line-height:1.5} .grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:28px}.card{border:1px solid var(--line);padding:18px;background:rgba(255,255,255,.25)} .card h2{margin:0 0 6px;font-size:20px}.question{color:var(--muted);font-size:14px;margin-bottom:12px}.scores{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-bottom:12px}.score{border:1px solid var(--ink);height:42px;display:flex;align-items:center;justify-content:center;font-weight:700}.notes{border:1px solid var(--line);height:84px;padding:10px;color:var(--muted);font-size:14px}.bottom{display:grid;grid-template-columns:1.2fr .8fr;gap:18px;margin-top:22px}.total,.bands{border:1px solid var(--line);padding:18px;background:rgba(255,255,255,.25)} .totalbox{margin-top:10px;border:2px solid var(--ink);height:74px;display:flex;align-items:center;justify-content:center;font-size:34px;font-weight:800}.band{display:flex;justify-content:space-between;padding:10px 0;border-top:1px solid var(--line);font-weight:600}.band:first-child{border-top:none}.footer{margin-top:18px;color:var(--muted);font-size:13px}.legend{display:inline-block;padding:5px 8px;border:1px solid var(--line);margin-right:6px;margin-top:8px;font-size:12px;text-transform:uppercase;letter-spacing:.08em}
+@media print{.page{padding:24px}} 
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="eyebrow">Opportunity Arbitrage Toolkit</div>
+  <h1>Opportunity Scorecard</h1>
+  <div class="sub">Score one opportunity fast. Use this before you commit serious time, code, or attention.</div>
+  <div class="grid">
+    <div class="card"><h2>1. Buyer Clarity</h2><div class="question">Can you find the buyer in 5 minutes?</div><div class="scores"><div class="score">1</div><div class="score">2</div><div class="score">3</div><div class="score">4</div><div class="score">5</div></div><div class="notes">Notes / evidence:</div></div>
+    <div class="card"><h2>2. Pain Severity</h2><div class="question">Is this a bleeding neck or a broken nail?</div><div class="scores"><div class="score">1</div><div class="score">2</div><div class="score">3</div><div class="score">4</div><div class="score">5</div></div><div class="notes">Notes / evidence:</div></div>
+    <div class="card"><h2>3. Monetization Clarity</h2><div class="question">Is there proof of spend for an ugly existing solution?</div><div class="scores"><div class="score">1</div><div class="score">2</div><div class="score">3</div><div class="score">4</div><div class="score">5</div></div><div class="notes">Notes / evidence:</div></div>
+    <div class="card"><h2>4. Build Feasibility</h2><div class="question">Can the smallest useful wedge ship in weeks, not quarters?</div><div class="scores"><div class="score">1</div><div class="score">2</div><div class="score">3</div><div class="score">4</div><div class="score">5</div></div><div class="notes">Notes / evidence:</div></div>
+    <div class="card"><h2>5. Defensibility</h2><div class="question">Does it get stickier through data, workflow, or trust?</div><div class="scores"><div class="score">1</div><div class="score">2</div><div class="score">3</div><div class="score">4</div><div class="score">5</div></div><div class="notes">Notes / evidence:</div></div>
+    <div class="card"><h2>6. Distribution Realism</h2><div class="question">Do you have a believable path to the buyer?</div><div class="scores"><div class="score">1</div><div class="score">2</div><div class="score">3</div><div class="score">4</div><div class="score">5</div></div><div class="notes">Notes / evidence:</div></div>
+  </div>
+  <div class="bottom">
+    <div class="total"><div class="eyebrow">Total</div><div class="totalbox">__/30</div><div class="footer"><span class="legend">Build</span><span class="legend">Backlog</span><span class="legend">Kill</span></div></div>
+    <div class="bands"><div class="eyebrow">Interpretation</div><div class="band"><span>26–30</span><span>Strong build candidate</span></div><div class="band"><span>21–25</span><span>Good candidate — pressure test</span></div><div class="band"><span>16–20</span><span>Backlog or narrow the wedge</span></div><div class="band"><span>15 and below</span><span>Kill unless evidence changes</span></div></div>
+  </div>
+</div>
+</body>
+</html>

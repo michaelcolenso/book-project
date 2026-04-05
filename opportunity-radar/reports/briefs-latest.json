@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-03-28T18:45:12.828207+00:00",
+  "source": "data.gov",
+  "query": "building permits",
+  "count": 2,
+  "briefs": [
+    {
+      "name": "County Residential Permit Momentum Monitor for Building Materials Sales Teams",
+      "niche": "Building materials manufacturers and regional distributors selling into residential new-construction markets",
+      "intent_signals": [
+        "Companies already buy construction market intelligence, lead lists, and territory planning data",
+        "Sales teams regularly rebalance territories and prospecting based on housing starts and local construction activity",
+        "Executives track county-level permit trends to forecast demand for products like windows, roofing, HVAC, insulation, and appliances",
+        "Public-company earnings and industry reports frequently reference permit activity as a leading demand indicator"
+      ],
+      "pain_point": "Regional sales and demand-planning teams lack a cheap, standardized way to monitor where residential construction activity is accelerating or slowing at the county level. They often rely on expensive industry data products, ad hoc spreadsheets, or lagging intuition, which leads to misallocated sales coverage, missed distributor opportunities, and weak local demand forecasts.",
+      "current_solutions": [
+        "National construction data vendors with expensive subscriptions",
+        "Internal analyst spreadsheets combining Census/HUD data manually",
+        "Broad macro housing reports that are not operational enough for county-level territory action",
+        "CRM-based sales planning without external market signals"
+      ],
+      "proposed_solution": "A subscription dashboard and periodic alert product that converts county-level residential permit data into actionable territory signals: growth rankings, multi-year county momentum scores, peer-county benchmarks, state rollups, and downloadable target lists for sales reps and distributor managers. Position it as a lightweight market-prioritization tool for teams that cannot justify premium construction intelligence spend.",
+      "access": "The core permit dataset is public and downloadable from HUD/Census-related open data sources, so access for batch ingestion is relatively straightforward. The main limitation is not access but timeliness and granularity: the most usable county-level files are lagging and often best suited to annual or periodic planning rather than real-time monitoring.",
+      "mvp_scope": "Ingest the county permit dataset, normalize county identifiers, compute YoY and 3-year trend metrics, create filters by state/region/county, and ship CSV exports of fastest-growing counties by permit volume and growth rate. Include simple email alerts when the annual refresh lands and basic account-level saved territories. Start with one vertical template such as roofing or windows sales planning.",
+      "why_this_could_win": "This is a credible wedge: lower-cost construction market intelligence for specific operational jobs like territory planning and distributor targeting. The buyer is understandable, the workflow recurs around annual and quarterly planning cycles, and the MVP can be built from one public dataset. The winning angle is simplicity and price versus heavyweight industry data products, especially for mid-market suppliers and regional distributors.",
+      "risks": [
+        "Data is lagging and annual or periodic, which severely limits use cases requiring current-month lead generation or active project tracking",
+        "County-level aggregation is too coarse for some sales teams that need permit-holder, builder, or parcel-level detail",
+        "The dataset may be easy for sophisticated buyers to replicate internally, limiting defensibility",
+        "Competitive pressure from richer proprietary construction intelligence vendors is significant",
+        "If permit definitions or county coverage change over time, trend comparability may require careful cleaning",
+        "This is stronger as a planning and forecast support tool than as a standalone must-have workflow system"
+      ],
+      "scores": {
+        "pain_severity": 4,
+        "frequency": 4,
+        "intent_to_pay": 4,
+        "buyer_clarity": 4,
+        "data_accessibility": 4,
+        "distribution_accessibility": 3,
+        "mvp_simplicity": 4,
+        "defensibility": 2,
+        "fit_with_mike": 4
+      },
+      "_validation": {
+        "initial_ok": false,
+        "initial_issues": [
+          "data_accessibility_inconsistent_with_public_source"
+        ],
+        "repaired_ok": true,
+        "repaired_issues": []
+      }
+    },
+    {
+      "name": "Allegheny Permit-Eligible Plumber Verification & Lead Routing",
+      "niche": "Local plumbing suppliers, sewer/water line contractors, property managers, permit expediters, and restoration firms in Allegheny County",
+      "intent_signals": [
+        "Businesses need to verify whether a plumber is currently registered before assigning permit-requiring work",
+        "Property managers and GCs need compliant plumbers to avoid permit delays",
+        "Suppliers and service vendors want targeted lists of active, local master plumbers",
+        "Homeowners and owner-occupants applying for permits create demand for compliant contractor referrals"
+      ],
+      "pain_point": "In Allegheny County, only registered master plumbers with a current license can apply for plumbing permits, but checking eligibility and finding valid local plumbers is fragmented and manual. This creates permit delays, failed assignments, compliance risk, and wasted sales effort for vendors targeting the wrong contractors.",
+      "current_solutions": [
+        "Manual lookup on the county webapp",
+        "Google/Yelp searches with no permit-eligibility certainty",
+        "Internal spreadsheets maintained by property managers or contractors",
+        "Broad contractor lead lists that do not confirm county registration status"
+      ],
+      "proposed_solution": "A county-specific plumber compliance directory and monitoring tool that normalizes the public registry into searchable profiles, verifies current registration status, flags changes, and offers filtered lead lists for B2B users. Initial product: searchable database of registered master plumbers in Allegheny County with alerts for status changes and simple CRM/export features for vendors and property managers.",
+      "access": "Public county webapp data appears available via a web interface; likely reachable by scraping or periodic manual sync, though structure, anti-bot controls, or terms may limit automation. Distribution can happen through direct outreach to plumbing suppliers, permit expediters, restoration firms, water/sewer contractors, and property managers operating in Allegheny County.",
+      "mvp_scope": "Narrow MVP: ingest the public registry, create standardized plumber records, add filters by municipality/ZIP/name/business, expose current registration status, and send weekly change alerts. Include CSV export and simple saved lists for sales teams. Skip broader contractor marketplace, reviews, and multi-county expansion initially.",
+      "why_this_could_win": "The wedge is not generic plumber discovery but permit-eligibility verification tied to a specific county rule. For local B2B users, a simple, reliable source of who can legally pull plumbing permits is more actionable than consumer directories. The buyer set is identifiable and reachable locally, and the MVP can deliver immediate workflow value without needing a full marketplace.",
+      "risks": [
+        "Dataset may be too narrow or low-volume to support a large standalone business",
+        "Public webapp may not expose enough structured fields for high-quality lead enrichment",
+        "Update frequency may be insufficient for real-time compliance use cases",
+        "County terms or technical barriers may constrain automated extraction",
+        "Incumbent users may tolerate manual lookup if lookup volume is low",
+        "Single-county focus limits TAM unless replicated across jurisdictions"
+      ],
+      "scores": {
+        "pain_severity": 4,
+        "frequency": 3,
+        "intent_to_pay": 3,
+        "buyer_clarity": 4,
+        "data_accessibility": 3,
+        "distribution_accessibility": 4,
+        "mvp_simplicity": 4,
+        "defensibility": 2,
+        "fit_with_mike": 4
+      },
+      "_validation": {
+        "initial_ok": false,
+        "initial_issues": [
+          "buyer_clarity_inconsistent_with_named_buyer"
+        ],
+        "repaired_ok": true,
+        "repaired_issues": []
+      }
+    }
+  ]
+}

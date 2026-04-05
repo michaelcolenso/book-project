@@ -1,0 +1,19 @@
+[project]
+name = "opportunity-radar"
+version = "0.1.0"
+description = "Public-data opportunity radar for finding and ranking monetizable niches"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "openai>=1.70.0",
+]
+
+[project.scripts]
+opp-radar = "opportunity_radar.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = true

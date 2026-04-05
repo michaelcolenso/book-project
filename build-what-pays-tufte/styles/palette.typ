@@ -1,0 +1,6 @@
+#let parchment = rgb("F5F2EB")
+#let ink = rgb("1A1A1A")
+#let construction-red = rgb("8B1A1A")
+#let warm-gray = rgb("6B6B6B")
+#let light-grid = rgb("D4D0C8")
+#let mid-gray = rgb("B8B4AC")
