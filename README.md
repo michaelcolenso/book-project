@@ -54,11 +54,13 @@ The core thesis: most builders fail from **selection failure**, not execution fa
 **Current phase:** Post-editorial revision — manuscript is publication-ready with targeted improvements pending.
 
 **Priority actions remaining (from editorial review):**
-- [ ] Restore "Good. That is cheaper than building them." closing lines
-- [ ] Restore three-deliverable structural promise in Introduction
-- [ ] Add two-sentence bridge before 30-Day Sprint
-- [ ] Expand example wedges with filter-by-filter scoring
-- [ ] Add scoring rubrics (1–5 definitions) for each filter
+
+**Execution plan:** see `00_System_Briefs/BWP_Shipping_Plan.md` for delegated owners, dates, quality gates, and launch readiness checklist.
+- [x] Restore "Good. That is cheaper than building them." closing lines
+- [x] Restore three-deliverable structural promise in Introduction
+- [x] Add two-sentence bridge before 30-Day Sprint
+- [x] Expand example wedges with filter-by-filter scoring
+- [x] Add scoring rubrics (1–5 definitions) for each filter
 
 ---
 
