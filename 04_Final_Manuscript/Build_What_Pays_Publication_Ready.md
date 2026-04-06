@@ -205,7 +205,7 @@ Not "small businesses." Not "creators." Not "anyone who needs help with X."
 
 A useful buyer definition sounds like this: first-time hot sauce entrepreneur trying to sell legally; part-time reseller with tax-season spreadsheet chaos; leather crafter underpricing custom commissions; roofer who wants permit-triggered sales alerts in one county.
 
-If the buyer is fuzzy, the product will be fuzzy.
+Include the trigger, not just the persona: who they are, when pain spikes, and what forces action. If the buyer is fuzzy, the product will be fuzzy.
 
 **Scoring Rubric:**
 - 1 = Cannot define the buyer at all
@@ -288,7 +288,7 @@ Rate each opportunity from 1 to 5 on all six filters.
 
 The point is not false precision. The point is forced judgment.
 
-For the full scoring bands and printable worksheet, see Appendix B and Appendix C.
+For the full scoring bands and printable worksheet, see Appendix A and Appendix B.
 
 ---
 
@@ -332,7 +332,7 @@ If the wedge requires many integrations, polished UX, or heavy infrastructure be
 
 **It is legally contaminated**
 
-Some opportunities are real but not worth the exposure. If the path depends on legal gray zones, high-liability behavior, or regulated data you do not have the right to use, cut it. Do your homework before you build—the cost of getting this wrong almost always exceeds the cost of choosing a cleaner niche.
+Some opportunities are real but not worth the exposure. If the path depends on legal gray zones, high-liability behavior, or regulated data you do not have the right to use, cut it. Compliance is not about scaring yourself out of a market; it is about pricing risk correctly. Do your homework before you build—the cost of getting this wrong almost always exceeds the cost of choosing a cleaner niche.
 
 **You are excited mainly because the tooling is fun**
 
