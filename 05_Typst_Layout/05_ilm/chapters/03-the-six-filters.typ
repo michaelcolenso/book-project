@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-04-six-filters.typ": bwp-04-six-filters
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -9,7 +10,7 @@ Most idea evaluation is too soft. Founders say things like "big market," "strong
 Use these six filters on every opportunity before you let yourself like it.#note[Score each filter 1--5. Total of 26+ = build candidate. 15 or below = kill.]
 
 #wideblock[
-  #image("../images/bwp-04-six-filters.png", width: 100%)
+  #bwp-04-six-filters
 ]
 
 #section("Buyer Clarity")

@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-05-four-data-gaps.typ": bwp-05-four-data-gaps
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -17,7 +18,7 @@ You are looking for evidence, not vibes.
 This engine works when valuable data exists but the interface is broken, the SEO is weak, or the commercial use case is hidden.#note[Look for: permits, licenses, inspections, complaints, recalls, filings, violations, registrations, procurement records.]
 
 #wideblock[
-  #image("../images/bwp-05-four-data-gaps.png", width: 100%)
+  #bwp-05-four-data-gaps
 ]
 
 #section("Engine 3: Workflow Compression")

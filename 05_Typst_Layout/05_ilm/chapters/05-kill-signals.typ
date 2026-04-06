@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-06-kill-signals.typ": bwp-06-kill-signals
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -9,7 +10,7 @@ A lot of progress comes from saying no faster.
 Bad ideas do not fail quietly. They leak weakness early.#note[The strongest founders are not the ones who discover the most opportunities. They are the ones who kill weak ones fastest.]
 
 #wideblock[
-  #image("../images/bwp-06-kill-signal-checklist.png", width: 100%)
+  #bwp-06-kill-signals
 ]
 
 #section("The buyer is blurry")

@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-02-five-failure-modes.typ": bwp-02-five-failure-modes
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -70,7 +71,7 @@ Wide scope also damages validation quality. The more surfaces you include, the h
 The commercial move is almost always to cut harder. Pick the buyer with money. Pick the workflow with recurring pain. Pick the narrowest outcome you can deliver fast. If the wedge works, expansion gets easier because you now have a live account, real language, and a reason to exist. If the wedge does not work, the grand vision was never helping you anyway.
 
 #wideblock[
-  #image("../images/bwp-02-five-failure-modes.png", width: 100%)
+  #bwp-02-five-failure-modes
 ]
 
 The result is predictable: months of work, weak demand, and a stack of explanations for why the market just was not ready.

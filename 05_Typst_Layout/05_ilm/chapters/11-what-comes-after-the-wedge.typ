@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-12-deepening-cycle.typ": bwp-12-deepening-cycle
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -9,7 +10,7 @@ If the wedge works, the next job is not to explode the scope. It is to deepen th
 That usually means one of four moves: productize the manual result, increase frequency or automation, expand to adjacent buyers only after the first buyer is working, and deepen the workflow before broadening the category.
 
 #wideblock[
-  #image("../images/bwp-12-deepening-cycle.png", width: 90%)
+  #bwp-12-deepening-cycle
 ]
 
 This is where a lot of builders relapse. They survive the idea trap, prove a narrow wedge, then immediately try to turn it into a broad platform because the early signal feels like permission to expand.

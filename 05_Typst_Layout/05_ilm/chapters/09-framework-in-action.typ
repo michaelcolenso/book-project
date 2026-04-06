@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-11-scored-opportunity-card.typ": bwp-11-scored-opportunity-card
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -9,7 +10,7 @@ The point of this section is not volume. It is proof.#note[These are not recomme
 These are the kinds of wedges the framework tends to surface when the filters are doing their job.
 
 #wideblock[
-  #image("../images/bwp-11-scored-opportunity-card.png", width: 100%)
+  #bwp-11-scored-opportunity-card
 ]
 
 #section("1. SauceStack")

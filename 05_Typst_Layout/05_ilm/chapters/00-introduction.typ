@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-01-arbitrage-gap.typ": bwp-01-arbitrage-gap
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -19,7 +20,7 @@ Not with hype. Not with generic "AI startup ideas." Not with another brainstorm 
 With a system.
 
 #wideblock[
-  #image("../images/bwp-01-arbitrage-gap.png", width: 100%)
+  #bwp-01-arbitrage-gap
 ]
 
 A strong solo-builder opportunity usually has some combination of these traits:

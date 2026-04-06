@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-03-three-money-signals.typ": bwp-03-three-money-signals
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -50,7 +51,7 @@ The key is separating real urgency from fake urgency. A strong signal has an ext
 The best urgency-driven markets also repeat. Permits keep getting filed. Compliance dates keep returning. New launches keep happening. Inspections keep coming. You are not just solving one moment of panic. You are attaching to a workflow that keeps regenerating demand.
 
 #wideblock[
-  #image("../images/bwp-03-three-money-signals.png", width: 90%)
+  #bwp-03-three-money-signals
 ]
 
 A money-first builder asks: What are they already paying for? What mistakes are already costing them money? What ugly process are they tolerating because nothing better exists? Can software, AI, or automation collapse that pain enough to matter?

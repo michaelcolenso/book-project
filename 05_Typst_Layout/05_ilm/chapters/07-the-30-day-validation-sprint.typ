@@ -1,4 +1,5 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-09-sprint-timeline.typ": bwp-09-sprint-timeline
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -7,7 +8,7 @@
 Validation is not about certainty. It is about earning the next 30 days.#note[Four questions: Is the pain real? Is the buyer reachable? Will anyone pay? Is the wedge small enough to ship?]
 
 #wideblock[
-  #image("../images/bwp-09-sprint-timeline.png", width: 100%)
+  #bwp-09-sprint-timeline
 ]
 
 #section("Week 1: Verify the Pain")
