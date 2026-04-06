@@ -729,7 +729,7 @@ These are not recommendations. They are teaching examples.
 | Pain Severity | 5 | Lost revenue from late quotes |
 | Monetization Clarity | 5 | Monthly subscription, clear ROI |
 | Build Feasibility | 5 | Public data + simple alerts |
-| Defensibility | 4 | Speed and accuracy matter |
+| Defensibility | 3 | Public data is copyable; speed and accuracy provide only a time-limited moat |
 | Distribution Realism | 4 | Trade associations, vendor partnerships |
 
 **Why it works:** Timing is everything for installers who need to quote early, and permit data is public but buried. The framework sees public-data arbitrage, clear timing value, subscription monetization. The manual version starts as a weekly email to a handful of contractors while automation is built.
