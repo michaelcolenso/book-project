@@ -4,7 +4,7 @@
 // (not sequential steps), each with a header icon, a list of signal words,
 // and a descriptor. All three flow into a shared output bar.
 
-#import "@preview/cetz:0.3.1": canvas, draw
+#import "@preview/cetz:0.4.2": canvas, draw
 #import "palette.typ": *
 #import "styles.typ": *
 

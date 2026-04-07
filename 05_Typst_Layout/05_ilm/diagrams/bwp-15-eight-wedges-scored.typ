@@ -9,7 +9,7 @@
 // match the headline totals. EV Permit Alert Engine was reconciled from
 // 28 → 27 (Defensibility 4 → 3) for internal consistency.
 
-#import "@preview/cetz:0.3.1": canvas, draw
+#import "@preview/cetz:0.4.2": canvas, draw
 #import "palette.typ": *
 #import "styles.typ": *
 

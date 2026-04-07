@@ -1,11 +1,16 @@
 #import "@local/eightbyten:0.2.0": *
 #import "../diagrams/bwp-05-four-data-gaps.typ": bwp-05-four-data-gaps
+#import "../diagrams/bwp-14-discovery-engines.typ": bwp-14-discovery-engines
 
 #let bwp-red = rgb("#8B1A1A")
 
 #chapter("Three Discovery Engines", eyebrow: "Chapter 4")
 
 Good opportunities tend to emerge from the same few mechanics. Once you understand the mechanics, you stop waiting for inspiration.#note[Stop asking for ideas. Start running engines.]
+
+#wideblock[
+  #bwp-14-discovery-engines
+]
 
 #section("Engine 1: Money Trails in Communities")
 Look where people openly discuss what they pay for, what tools they hate, what mistakes cost them money, what manual work they are tired of doing, and what services they wish were better or cheaper.

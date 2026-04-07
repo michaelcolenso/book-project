@@ -1,10 +1,15 @@
 #import "@local/eightbyten:0.2.0": *
+#import "../diagrams/bwp-13-idea-funnel.typ": bwp-13-idea-funnel
 
 #let bwp-red = rgb("#8B1A1A")
 
 #part("Foundations")
 
 This part builds the evaluation system: how to spot stronger opportunities, reject weak ones, and narrow signal into a real wedge.
+
+#wideblock[
+  #bwp-13-idea-funnel
+]
 
 #include "../chapters/00-introduction.typ"
 #include "../chapters/01-the-idea-trap.typ"

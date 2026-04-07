@@ -1,5 +1,6 @@
 #import "@local/eightbyten:0.2.0": *
 #import "../diagrams/bwp-11-scored-opportunity-card.typ": bwp-11-scored-opportunity-card
+#import "../diagrams/bwp-15-eight-wedges-scored.typ": bwp-15-eight-wedges-scored
 
 #let bwp-red = rgb("#8B1A1A")
 
@@ -39,6 +40,10 @@ These are the kinds of wedges the framework tends to surface when the filters ar
 *Why it works:* Small pricing improvements create immediate ROI. *What the framework sees:* A narrow buyer, recurring pain, and a wedge that can be sold as a tool, worksheet, or service before it becomes software.
 
 The common pattern should be obvious by now. The strongest opportunities are usually not the most glamorous. They are the ones where pain is visible, the trigger is real, and the first version can solve one painful job without pretending to be a whole company on day one.
+
+#wideblock[
+  #bwp-15-eight-wedges-scored
+]
 
 
 // ─── Chapter 10 ──────────────────────────────────────────────────

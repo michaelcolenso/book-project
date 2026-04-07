@@ -121,7 +121,8 @@ That is cheaper than building them.
 
 = 1. The Idea Trap
 
-#bwp-diagram-page("assets/diagrams/bwp-02-five-failure-modes.png", label: [Chapter 1 · Five Failure Modes])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-02-five-failure-modes.png", label: [Chapter 1 · Five Failure Modes])
 
 
 
@@ -170,7 +171,8 @@ Good founders are not just idea generators. They are idea editors. They know how
 
 = 2. The Money-First Lens
 
-#bwp-diagram-page("assets/diagrams/bwp-03-three-money-signals.png", label: [Chapter 2 · Three Money Signals])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-03-three-money-signals.png", label: [Chapter 2 · Three Money Signals])
 
 
 
@@ -217,7 +219,8 @@ Specific pain creates specific products.
 
 = 3. The Six Filters
 
-#bwp-diagram-page("assets/diagrams/bwp-04-six-filters.png", label: [Chapter 3 · Six Filters])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-04-six-filters.png", label: [Chapter 3 · Six Filters])
 
 
 
@@ -322,7 +325,8 @@ For the full scoring bands and printable worksheet, see *Appendix B: Opportunity
 
 = 4. Three Discovery Engines
 
-#bwp-diagram-page("assets/diagrams/bwp-05-four-data-gaps.png", label: [Chapter 4 · Four Data Gaps])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-05-four-data-gaps.png", label: [Chapter 4 · Four Data Gaps])
 
 
 
@@ -395,7 +399,8 @@ Most strong solo-builder products come from one engine or a combination of two. 
 
 = 5. Kill Signals
 
-#bwp-diagram-page("assets/diagrams/bwp-06-kill-signal-checklist.png", label: [Chapter 5 · Kill Signal Checklist])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-06-kill-signal-checklist.png", label: [Chapter 5 · Kill Signal Checklist])
 
 
 
@@ -463,7 +468,8 @@ The strongest founders are not the ones who discover the most opportunities. The
 
 = 6. From Signal to Wedge
 
-#bwp-diagram-page("assets/diagrams/bwp-07-signal-to-wedge.png", label: [Chapter 6 · Signal to Wedge])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-07-signal-to-wedge.png", label: [Chapter 6 · Signal to Wedge])
 
 
 
@@ -495,7 +501,8 @@ The move usually looks like this:
 
 == The wedge test
 
-#bwp-diagram-page("assets/diagrams/bwp-08-weak-vs-strong-wedge.png", label: [Chapter 6 · Weak vs Strong Wedge])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-08-weak-vs-strong-wedge.png", label: [Chapter 6 · Weak vs Strong Wedge])
 
 
 A good wedge usually has:
@@ -529,7 +536,8 @@ The narrower version is not smaller in a bad way. It is stronger in a useful way
 
 = 7. The 30-Day Validation Sprint
 
-#bwp-diagram-page("assets/diagrams/bwp-09-sprint-timeline.png", label: [Chapter 7 · 30-Day Validation Sprint])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-09-sprint-timeline.png", label: [Chapter 7 · 30-Day Validation Sprint])
 
 
 
@@ -621,7 +629,8 @@ Then assign one verdict:
 
 = 8. First Customer Before Full Product
 
-#bwp-diagram-page("assets/diagrams/bwp-10-service-to-software.png", label: [Chapter 8 · Service to Software])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-10-service-to-software.png", label: [Chapter 8 · Service to Software])
 
 
 
@@ -668,7 +677,8 @@ A buyer usually cares more about the result than the architecture. Sell the resu
 
 = 9. Framework in Action
 
-#bwp-diagram-page("assets/diagrams/bwp-11-scored-opportunity-card.png", label: [Chapter 9 · Scored Opportunity Card])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-11-scored-opportunity-card.png", label: [Chapter 9 · Scored Opportunity Card])
 
 
 
@@ -764,7 +774,8 @@ That is enough.
 
 = 11. What Comes After the Wedge
 
-#bwp-diagram-page("assets/diagrams/bwp-12-deepening-cycle.png", label: [Chapter 11 · Deepening Cycle])
+// REMOVED Phase 2b — see ../05_ilm/diagrams/ for canonical native Typst versions
+// #bwp-diagram-page("assets/diagrams/bwp-12-deepening-cycle.png", label: [Chapter 11 · Deepening Cycle])
 
 
 

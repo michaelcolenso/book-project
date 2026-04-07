@@ -7,7 +7,7 @@
 // To preview standalone:
 //   typst compile bwp-04-six-filters.typ /tmp/bwp-04.pdf
 
-#import "@preview/cetz:0.3.1": canvas, draw
+#import "@preview/cetz:0.4.2": canvas, draw
 #import "palette.typ": *
 #import "styles.typ": *
 

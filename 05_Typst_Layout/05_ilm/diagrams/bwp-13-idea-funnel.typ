@@ -4,7 +4,7 @@
 // rejects ideas (faded × marks ejected sideways). The book's visual thesis:
 // a good framework rejects more ideas than it advances.
 
-#import "@preview/cetz:0.3.1": canvas, draw
+#import "@preview/cetz:0.4.2": canvas, draw
 #import "palette.typ": *
 #import "styles.typ": *
 
