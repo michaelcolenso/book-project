@@ -16,7 +16,7 @@ That is the trap.
 
 The market leaks signal everywhere. Operators complain about ugly workflows in forums. Small businesses pay monthly for software they resent. Public data sits in broken interfaces with zero packaging and obvious commercial value. Buyers reveal intent through permits, licenses, inspections, filings, violations, complaints, recalls, and other operational signals long before most founders notice.
 
-Opportunity arbitrage is the discipline of finding value in that gap.
+Finding value in that gap requires a system.
 
 Not with hype. Not with generic “AI startup ideas.” Not with another brainstorm dump.
 
@@ -296,7 +296,7 @@ Some opportunities are real but not worth the exposure. If the path depends on l
 ### You are excited mainly because the tooling is fun
 If the best argument for the idea is that the stack is interesting, the market is probably not the real driver.
 
-The strongest founders are not the ones who discover the most opportunities. They are the ones who kill weak opportunities before those opportunities eat six months of energy.
+The best founders don't discover the most ideas. They kill weak ones before they eat six months of your life.
 
 ---
 
@@ -337,7 +337,7 @@ Compare these:
 - weak wedge: better market intelligence
 - strong wedge: permit-triggered lead alerts for roofers and solar installers by county
 
-The narrower version is not smaller in a bad way. It is stronger in a useful way.
+The narrower version isn't smaller. It's sharper.
 
 ---
 
@@ -374,7 +374,7 @@ Examples:
 Test it with a landing page, waitlist, direct outreach, a manual audit offer, or a concierge service.
 
 ### Week 3: Deliver manually
-This is where many founders cheat. They collect emails and call that validation. Usually it is not.
+This is where many founders cheat. They collect emails and call that validation. It isn't.
 
 Manual delivery teaches you:
 - what the buyer actually values
@@ -438,46 +438,32 @@ The point of this section is not volume. It is proof.
 
 These are the kinds of wedges the framework tends to surface when the filters are doing their job. Some have stronger evidence behind them than others. Some are closer to product shape than others. The point is not that each one is a guaranteed winner. The point is that each one shows what a strong opportunity structure looks like.
 
-### 1. SauceStack
+### 1. SauceStack (Community Pain)
 - **Buyer:** first-time hot sauce entrepreneurs
 - **Pain:** state-by-state cottage food confusion, labeling requirements, and co-packer uncertainty
 - **Wedge:** compliance navigator plus label requirement checker
 - **Why it works:** clear buyer, urgent trigger, and obvious willingness to pay because mistakes delay launch
 - **What the framework sees:** visible regulatory pain, a strong first-customer moment, and a narrow entry wedge that can begin as a checklist or guided path before software deepens
 
-### 2. FlipTrack
+### 2. FlipTrack (Workflow Compression)
 - **Buyer:** part-time and full-time resellers
 - **Pain:** inventory chaos, tax-season panic, unclear profit by item or platform
 - **Wedge:** cross-platform inventory plus tax-ready export
 - **Why it works:** repetitive pain, recurring use, measurable value
 - **What the framework sees:** ugly repeated workflow, obvious cost of mistakes, and a manual bridge that can start with cleanup plus reporting before a full product exists
 
-### 3. Building Permit Cross-Sell Intelligence
+### 3. Building Permit Cross-Sell Intelligence (Public Data)
 - **Buyer:** roofers, solar installers, remodelers, and adjacent home-service operators
 - **Pain:** weak visibility into new jobs at the right time
 - **Wedge:** permit-triggered lead alerts by trade and geography
 - **Why it works:** the timing value is easy to explain and easy to sell
 - **What the framework sees:** public-data arbitrage plus strong distribution realism because the trigger is visible and the buyer already pays for worse leads
 
-### 4. Federal Contracting Opportunity Engine
-- **Buyer:** government contractors, consultants, and capture teams
-- **Pain:** incumbent tools are expensive and government interfaces are painful
-- **Wedge:** better filtering, search, and alerting around solicitations
-- **Why it works:** clear spend, ugly existing experience, high value per win
-- **What the framework sees:** a market already paying, a bad existing interface, and a buyer who can justify spend when the signal quality is higher
-
-### 5. CraftLedger
-- **Buyer:** leather crafters and commission-based makers
-- **Pain:** underpricing labor, weak quoting discipline, poor materials tracking
-- **Wedge:** project costing and pricing calculator
-- **Why it works:** small pricing improvements create immediate ROI
-- **What the framework sees:** a narrow buyer, recurring pain, and a wedge that can be sold as a tool, worksheet, or service before it becomes software
-
 The common pattern should be obvious by now. The strongest opportunities are usually not the most glamorous. They are the ones where pain is visible, the trigger is real, and the first version can solve one painful job without pretending to be a whole company on day one.
 
 ---
 
-## 10. What to Build Next
+## 10. After the Wedge
 
 The final decision is not, “What sounds best?”
 
@@ -495,12 +481,6 @@ The best next build is often not the biggest market. It is the cleanest entry po
 Do not let two promising ideas advance at the same time unless one is clearly a sidecar asset. Parallel idea pursuit feels productive. Usually it is focus leakage.
 
 Build one. Backlog one. Kill the rest.
-
-That is enough.
-
----
-
-## 11. What Comes After the Wedge
 
 If the wedge works, the next job is not to explode the scope. It is to deepen the proof.
 
@@ -549,6 +529,16 @@ That is enough to build something real.
 ## Appendix A: Pattern Library
 
 These are shorter opportunity patterns worth studying. They are not the main proof section. They are pattern exercises.
+
+### Federal Contracting Opportunity Engine
+- **Buyer:** government contractors, consultants, and capture teams
+- **Pain:** incumbent tools are expensive and government interfaces are painful
+- **Wedge:** better filtering, search, and alerting around solicitations
+
+### CraftLedger
+- **Buyer:** leather crafters and commission-based makers
+- **Pain:** underpricing labor, weak quoting discipline, poor materials tracking
+- **Wedge:** project costing and pricing calculator
 
 ### HiveStack
 - **Buyer:** sideline beekeepers and small commercial operators
