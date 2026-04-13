@@ -17,7 +17,7 @@ Gather direct evidence: complaint threads, money-spent statements, workaround sc
 You do not need a product yet. You need an offer. Test it with a landing page, waitlist, direct outreach, a manual audit offer, or a concierge service.
 
 == Week 3: Deliver Manually
-This is where many founders cheat. They collect emails and call that validation. Usually it is not.#note[If no one wants the manual result, software will not save you.]
+This is where many founders cheat. They collect emails and call that validation. It isn't.#note[If no one wants the manual result, software will not save you.]
 
 A concrete example: if you are testing permit-triggered lead alerts, you do not need a dashboard first. You can manually pull filings for one county, clean them in a spreadsheet, and send a weekly alert email to three contractors. If they reply, ask questions, or ask you to keep sending it, you have signal.
 
