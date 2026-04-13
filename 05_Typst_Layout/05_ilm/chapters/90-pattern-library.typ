@@ -1,9 +1,14 @@
-
 #let bwp-red = rgb("#8B1A1A")
 
 = Appendix: Pattern Library
 
 These are shorter opportunity patterns worth studying. They are pattern exercises, not the main proof section.
+
+=== Federal Contracting Opportunity Engine
+*Buyer:* Government contractors, consultants, and capture teams. *Pain:* Incumbent tools are expensive and government interfaces are painful. *Wedge:* Better filtering, search, and alerting around solicitations.
+
+=== CraftLedger
+*Buyer:* Leather crafters and commission-based makers. *Pain:* Underpricing labor, weak quoting discipline, poor materials tracking. *Wedge:* Project costing and pricing calculator.
 
 === HiveStack
 *Buyer:* Sideline beekeepers. *Pain:* Colony loss, treatment timing, weak profitability tracking. *Wedge:* Hive log plus treatment scheduler plus simple economics tracker.

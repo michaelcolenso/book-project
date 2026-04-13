@@ -21,7 +21,7 @@ A good wedge usually has one obvious buyer, one painful job, one trigger moment,
   #image("../images/bwp-08-weak-vs-strong-wedge.png", width: 100%)
 ]
 
-The narrower version is not smaller in a bad way. It is stronger in a useful way.
+The narrower version isn't smaller. It's sharper.
 
 
 // ─── Chapter 7 ───────────────────────────────────────────────────
