@@ -1,8 +1,8 @@
-#import "@local/eightbyten:0.2.0": *
+#import "@preview/marginalia:0.3.1": note, wideblock
 
 #let bwp-red = rgb("#8B1A1A")
 
-#chapter("Introduction", numbering: none)
+= Introduction
 
 Most builders do not fail because they cannot execute. They fail because they choose weak ideas, validate too late, and confuse interest with demand.#note[The most common failure mode is not execution failure. It is selection failure.]
 

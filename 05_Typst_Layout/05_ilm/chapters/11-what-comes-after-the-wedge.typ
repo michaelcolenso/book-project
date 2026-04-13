@@ -1,8 +1,8 @@
-#import "@local/eightbyten:0.2.0": *
+#import "@preview/marginalia:0.3.1": note, wideblock
 
 #let bwp-red = rgb("#8B1A1A")
 
-#chapter("What Comes After the Wedge", eyebrow: "Chapter 11")
+= Chapter 11: What Comes After the Wedge
 
 If the wedge works, the next job is not to explode the scope. It is to deepen the proof.#note[The four post-wedge moves: productize, increase frequency, expand adjacently, deepen workflow.]
 

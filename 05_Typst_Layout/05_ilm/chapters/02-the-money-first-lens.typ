@@ -1,8 +1,8 @@
-#import "@local/eightbyten:0.2.0": *
+#import "@preview/marginalia:0.3.1": note, wideblock
 
 #let bwp-red = rgb("#8B1A1A")
 
-#chapter("The Money-First Lens", eyebrow: "Chapter 2")
+= Chapter 2: The Money-First Lens
 
 A money-first lens does not mean greed-first. It means evidence-first.#note[*Money-first ≠ greed-first.* It means: where is spending, loss, or time-burn already obvious?]
 
@@ -10,7 +10,7 @@ The strongest early signal is not that people find a topic interesting. It is th
 
 There are three signals worth taking seriously.
 
-#section("Current Spending")
+== Current Spending
 If people already pay for an ugly tool, a manual service, a consultant, an attorney, or a spreadsheet-heavy process, there is usually room to build something better.
 
 Existing spend matters because it proves the market has crossed the line that matters most: the problem is expensive enough to justify action. You do not need to educate the buyer into caring. You need to show that your version is faster, cheaper, narrower, easier to adopt, or better matched to the workflow they already own.
@@ -23,7 +23,7 @@ The best spending signals usually share four traits: the spend is recurring, the
 
 Look for markets held together by bad substitutes: spreadsheets plus email plus a VA plus a legacy tool plus manual checking. That stack often hides the opportunity. It also gives you pricing cover, because you are not competing with zero. You are competing with the total cost of the mess.
 
-#section("Costly Mistakes")
+== Costly Mistakes
 Markets with repeated errors, compliance failures, underpricing, missed deadlines, bad sourcing, or weak tracking usually buy faster than markets built on polite wish lists.
 
 Mistake-driven markets buy because the downside is already visible. Someone is losing margin, eating rework, paying penalties, missing deadlines, getting chargebacks, or drifting into preventable legal risk. That is a stronger buying trigger than "this would be nice to have" because the pain is already showing up in cash, time, or embarrassment.
@@ -36,7 +36,7 @@ What matters is whether the buyer can connect the mistake to a budget line or op
 
 A useful test is severity × frequency × blameability. Severity asks how much money, risk, or disruption each mistake creates. Frequency asks whether it happens once a year or every week. Blameability asks whether the buyer believes a better system could have prevented it. High on all three is where strong products live.
 
-#section("Time-Sensitive Decisions")
+== Time-Sensitive Decisions
 If a buyer needs the answer now because of a permit, launch, filing, inspection, deadline, or legal risk, urgency compresses the sales cycle.#note[Urgency is the best sales accelerant. External clocks do the selling for you.]
 
 Urgency changes behavior. When a decision sits on a real clock, buyers tolerate less friction, compare fewer options, and will often adopt a narrower product if it helps them move now. This is why deadline-bound workflows often beat broad workflow-improvement ideas, even when the broader story sounds bigger.

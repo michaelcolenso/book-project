@@ -1,8 +1,7 @@
-#import "@local/eightbyten:0.2.0": *
 
 #let bwp-red = rgb("#8B1A1A")
 
-#appendix("Opportunity Scorecard")
+= Appendix: Opportunity Scorecard
 
 Rate each idea from *1 to 5* on: buyer clarity, pain severity, monetization clarity, build feasibility, defensibility, and distribution realism.
 
