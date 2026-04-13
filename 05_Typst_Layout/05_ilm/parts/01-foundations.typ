@@ -1,8 +1,7 @@
-#import "@local/eightbyten:0.2.0": *
 
 #let bwp-red = rgb("#8B1A1A")
 
-#part("Foundations")
+= Foundations
 
 This part builds the evaluation system: how to spot stronger opportunities, reject weak ones, and narrow signal into a real wedge.
 

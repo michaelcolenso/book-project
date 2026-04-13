@@ -1,8 +1,8 @@
-#import "@local/eightbyten:0.2.0": *
+#import "@preview/marginalia:0.3.1": note, wideblock
 
 #let bwp-red = rgb("#8B1A1A")
 
-#chapter("What to Build Next", eyebrow: "Chapter 10")
+= Chapter 10: What to Build Next
 
 The final decision is not, "What sounds best?"
 

@@ -1,4 +1,4 @@
-#import "../build-what-pays-ilm-template/lib.typ": *
+#import "/build-what-pays-ilm-template/lib.typ": *
 #import "@preview/marginalia:0.3.1"
 
 #show: marginalia.setup.with(

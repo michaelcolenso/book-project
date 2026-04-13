@@ -1,8 +1,8 @@
-#import "@local/eightbyten:0.2.0": *
+#import "@preview/marginalia:0.3.1": note, wideblock
 
 #let bwp-red = rgb("#8B1A1A")
 
-#chapter("Conclusion", numbering: none)
+= Conclusion
 
 This framework sounds ruthless because it is.
 

@@ -1,8 +1,7 @@
-#import "@local/eightbyten:0.2.0": *
 
 #let bwp-red = rgb("#8B1A1A")
 
-#part("Validation and Execution")
+= Validation and Execution
 
 This part turns the framework into action: how to validate quickly, sell before overbuilding, and judge what deserves the next 30 days.
 

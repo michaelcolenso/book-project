@@ -1,8 +1,8 @@
-#import "@local/eightbyten:0.2.0": *
+#import "@preview/marginalia:0.3.1": note, wideblock
 
 #let bwp-red = rgb("#8B1A1A")
 
-#chapter("First Customer Before Full Product", eyebrow: "Chapter 8")
+= Chapter 8: First Customer Before Full Product
 
 Most solo founders overbuild because software feels like progress. Often it is avoidance.#note[Sell the result. The buyer cares about the outcome, not the architecture.]
 

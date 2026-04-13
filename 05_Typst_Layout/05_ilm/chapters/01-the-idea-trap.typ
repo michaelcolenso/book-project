@@ -1,8 +1,8 @@
-#import "@local/eightbyten:0.2.0": *
+#import "@preview/marginalia:0.3.1": note, wideblock
 
 #let bwp-red = rgb("#8B1A1A")
 
-#chapter("The Idea Trap", eyebrow: "Chapter 1")
+= Chapter 1: The Idea Trap
 
 Most builders think their job starts with ideas. It does not. It starts with filters.#note[Good founders are not idea generators. They are idea editors.]
 
@@ -14,7 +14,7 @@ Most weak ideas survive because they are protected by vagueness. Nobody has to n
 
 Weak ideas usually survive for the same reasons.
 
-#section("Novelty Bias")
+== Novelty Bias
 Builders chase what feels new, not what is painful. A clever product gets more attention in founder circles than a boring product that solves a recurring operational headache.
 
 This is one of the cleanest ways to waste six months. Novelty creates energy. It gives the builder a story to tell: nobody is doing this, the tech just changed, the timing feels right. But buyers rarely wake up wanting novelty. They wake up wanting fewer errors, faster throughput, lower labor, less rework, better visibility, fewer missed deadlines, or more revenue from the same base of demand.
@@ -25,7 +25,7 @@ Novelty bias also makes founders overrate the competitive advantage of being ear
 
 The better question is not "Is this new?" It is "Is this expensive enough to matter?" A good wedge does not need to sound futuristic. It needs to attach to a recurring cost center, a known headache, and a buyer who can say yes without rewriting the org chart.
 
-#section("Proximity Bias")
+== Proximity Bias
 Builders overvalue problems they personally find interesting, even when the buyer is unclear or the budget is weak.
 
 Proximity bias shows up when the founder confuses personal familiarity with commercial validity. You touched a problem, so you assume the market is there. You find a workflow annoying, so you assume people will pay to fix it. Sometimes that is true. Often it is not. Being close to a problem can help you see nuance, but it can also make you blind to how little the buyer actually cares.
@@ -36,7 +36,7 @@ This gets worse when the builder is not explicit about whose pain matters. The e
 
 Proximity helps when it gives you language, access, and credibility. It hurts when it becomes a substitute for validation. The operator move is to use your insider view to sharpen the wedge, not to skip the proof. Name the buyer. Quantify the pain. Find the existing budget. If you cannot do that, your closeness is probably camouflage.
 
-#section("Tool-First Thinking")
+== Tool-First Thinking
 AI, scraping, automation, agents, and workflows become excuses to go looking for a problem after the solution already feels exciting.#note[If the best argument for the idea is that the stack is interesting, the market is probably not the real driver.]
 
 Tool-first thinking usually sounds sophisticated because the tools are real and the capabilities are moving fast. The mistake is not liking the tools. The mistake is letting technical possibility lead commercial logic. Once the builder gets excited about what a stack can do, the market research quietly becomes a scavenger hunt for a problem that justifies the build.
@@ -47,7 +47,7 @@ This is why many tool-first ideas collapse under basic questioning. What job is 
 
 There is nothing wrong with building around a capability shift. New tools do create openings. But the wedge still has to be anchored in a specific painful workflow with a clear buyer and a believable before-and-after. "We can build an agent that does X" is not the thesis. "Collections teams are bleeding cash because follow-up is inconsistent, and this replaces a measurable chunk of missed recovery" is a thesis.
 
-#section("Compliment Confusion")
+== Compliment Confusion
 People say, "That's cool," or, "I'd use that," and founders treat it like validation. It is not. Real validation has cost, effort, urgency, or money behind it.
 
 Compliments are socially cheap. People like encouraging builders. They like sounding supportive, smart, and early. So they say the idea is interesting, the demo is slick, or they would totally use it. None of that means they will change behavior, make time, take risk, or open a budget.
@@ -58,7 +58,7 @@ Good signals have weight. A prospect gives you exports from their current system
 
 This matters because compliment confusion creates fake momentum. The founder hears enough positive noise to keep building, but not enough committed behavior to prove a wedge. The operator standard is simple: treat enthusiasm as a lead, not a verdict. Until someone pays, commits, introduces, or changes behavior, you have interest at best.
 
-#section("Scope Intoxication")
+== Scope Intoxication
 The idea sounds big enough to matter, so the founder expands it before proving the smallest commercial wedge.
 
 Scope intoxication is what happens when the founder falls in love with the full map before winning the first block. The product becomes a platform, then a network, then an operating system for an industry. Every adjacent workflow starts to look strategically important. In reality, this is usually avoidance. Expansion feels like ambition, but very often it is a way to postpone the harder question of whether any narrow slice is valuable enough to buy.
